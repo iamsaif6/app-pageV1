@@ -1,27 +1,20 @@
-# Kallyas Multipage Website
+# Simple App Payment Page
 
 <br>
 
-<img src="https://github.com/iamsaif6/kallyas/blob/master/Screenshot%202021-06-02%20at%2012-06-48%20Kallyas%20Multi%20Page%20Website.png" width="800px" />
+<img src="https://github.com/iamsaif6/app-pageV1/blob/main/Screenshot%202021-06-03%20at%2016-25-54%20Title%20Here.png" width="800px" />
 
-> ## For live preview : [Click Here](https://iamsaif6.github.io/kallyas/ "Kallyas")
+> ## For live preview : [Click Here](https://iamsaif6.github.io/app-pageV1/ "App")
 
  <br>
 
-### Get started (Make sure you have installed node.js)
-
-- Open Git Bash or VS code terminal on Default Folder
-- Enter `npm install` to install the require file for scss compiles.
-- Enter `npm start` to start the compiles.
 
 ## Tools and Technology Used :
 
 - VS Code
-- SASS
 - CSS
 - HTML
 - JavaScript
-- NPM
 
 ### Check out my other project here : [https://iamsaif6.github.io](https://iamsaif6.github.io/ "Portfolio")
 
