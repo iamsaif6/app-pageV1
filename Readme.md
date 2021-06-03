@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/iamsaif6/app-pageV1/blob/main/Screenshot%202021-06-03%20at%2016-25-54%20Title%20Here.png" width="800px" />
+<img src="https://github.com/iamsaif6/app-pageV1/blob/main/Screenshot%202021-06-03%20at%2016-25-54%20Title%20Here.png" width="300px" />
 
 > ## For live preview : [Click Here](https://iamsaif6.github.io/app-pageV1/ "App")
 
